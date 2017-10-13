@@ -3,11 +3,25 @@ body {
 }
 
 header {
+	display: inline-block;
 	background-color: azure;
 	top: 0em;
 	left: 0em;
 	position: fixed;
 	width: 100%;
+}
+h1, a {
+	display: inline-block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+a {
+	display: block;
+	float: right;
+	font-size: 2em;
+	padding: 0 1em 0 1em;
+	color: black;
 }
 
 p {
@@ -20,6 +34,7 @@ p {
 }
 
 .quantitative {
+	background-color: firebrick;
 	text-align: center;
 }
 
@@ -30,5 +45,4 @@ p {
 .pitch {
 	text-align: center;
 	margin: 0 35% 35% 35%;
-
 }
