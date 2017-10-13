@@ -1,5 +1,14 @@
+body {
+	background-color: #708090;
+}
+
 header {
-	display: inline-block;
+	background-color: azure;
+	display: block;
+}
+
+p {
+	text-align: center;
 }
 
 .profile {
@@ -16,4 +25,6 @@ header {
 
 .pitch {
 	text-align: center;
+	margin: 0 35% 35% 35%;
+
 }
