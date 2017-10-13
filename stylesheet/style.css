@@ -1,3 +1,7 @@
+header {
+	display: inline-block;
+}
+
 .profile {
 	text-align: center;
 }
