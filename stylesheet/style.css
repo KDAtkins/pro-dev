@@ -7,9 +7,13 @@ header {
 }
 
 .quantitative {
-
+	text-align: center;
 }
 
 .qualitative {
+	text-align: center;
+}
 
+.pitch {
+	text-align: center;
 }
