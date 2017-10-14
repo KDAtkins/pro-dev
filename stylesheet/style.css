@@ -36,13 +36,21 @@ p {
 .quantitative {
 	background-color: firebrick;
 	text-align: center;
+	margin: 0 15% 0% 15%;
 }
 
 .qualitative {
 	text-align: center;
+	margin: 0 15% 0% 15%;
 }
 
 .pitch {
+	background-color: firebrick;
 	text-align: center;
-	margin: 0 35% 35% 35%;
+	margin: 0 15% 0% 15%;
+}
+
+.circle {
+	text-align: center;
+	margin: 0 15% 0% 15%;
 }
